@@ -1,2 +1,4 @@
-# Assign-the-value
-Assign the value
+// Setup
+var a;
+a = 7;
+// Only change code below this line
